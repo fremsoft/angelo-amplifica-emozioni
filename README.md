@@ -1,0 +1,2 @@
+# angelo-amplifica-emozioni
+ Luciano Fumagalli, pensionato curioso e amante del pensiero laterale, è l’ideatore di ANGELO, un dispositivo inizialmente pensato per gli anziani ipoacusici delle RSA italiane durante la pandemia, la cui economicità e condivisione Open source ne facilitano però l’impiego anche nei paesi LMIC (Low and Low Middle Income Countries), spesso gravati da un elevato grado di inaccessibilità alla tecnologia. 
