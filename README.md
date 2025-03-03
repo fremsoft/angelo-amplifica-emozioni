@@ -52,7 +52,7 @@ Tutti i file per realizzare il vostro ANGELO sono rilasciati con licenza **Creat
 ### KIT disponibili:
 - **KIT Base**: assemblaggio in pochi minuti, adatto anche a mani inesperte.
 - **KIT Avanzato**: richiede competenze minime in elettronica e stampa 3D, ideale per scuole, FABLAB e associazioni.
-- **🛒 Prodotto acquistabile presso FuturaNet**: (https://futuranet.it/prodotto/dispositivo-acustico/?ref=131015)
+- 🛒 **Prodotto acquistabile presso FuturaNet**: (https://futuranet.it/prodotto/dispositivo-acustico/?ref=131015)
 
 ---
 
